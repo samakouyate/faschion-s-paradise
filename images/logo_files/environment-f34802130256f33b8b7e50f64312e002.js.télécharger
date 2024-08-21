@@ -1,0 +1,3 @@
+define("logos/config/environment",(function(){return{default:{modulePrefix:"logos",podModulePrefix:"logos/pods",rootURL:"/",locationType:"auto","ember-component-css":{terseClassNames:!1},phoneInput:{lazyLoad:!1}}}}))
+
+//# sourceMappingURL=environment-f34802130256f33b8b7e50f64312e002.map
